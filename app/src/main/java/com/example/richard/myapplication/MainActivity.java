@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity implements Mesibo.MessageLis
 
     @Override
     public void Mesibo_onMessageStatus(Mesibo.MessageParams messageParams) {
-
+        return;
     }
 
     @Override
